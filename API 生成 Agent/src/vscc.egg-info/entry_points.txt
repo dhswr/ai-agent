@@ -1,0 +1,2 @@
+[console_scripts]
+vscc = vscc.main:app
